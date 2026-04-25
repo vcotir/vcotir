@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [AI Engineering Course](https://scrimba.com/the-ai-engineer-path-c02v)
+- 🔭 I’m currently working on taking an [AI Engineering Course by Scrimba](https://scrimba.com/the-ai-engineer-path-c02v)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about meditation!
