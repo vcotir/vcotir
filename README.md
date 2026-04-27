@@ -22,3 +22,5 @@
 <a href="https://github.com/vcotir/vcotir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcotir&show_icons=true&theme=cobalt&hide=javascript,css" />
 </a>
+
+<img align="center" src="https://duolingo-stats-card.vercel.app/api?username=v___n" />
